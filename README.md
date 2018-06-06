@@ -16,6 +16,8 @@ Upload the following jar file to Setup>Account>Libraries:
 - pw-swift-core-*version*.jar
 - swift2xml-*version*.jar
 
+The jars are inside lib and jar folder, the common-lang library is not required as it is already bundle with the Boomi Atom.
+
 And then create a Custom Library (you can call it Script_Swift2XML) with the three library
 
 ![Alt text](resources/Boomi_Custom_Library.png?raw=true "Swift2XML")
