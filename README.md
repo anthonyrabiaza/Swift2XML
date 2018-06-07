@@ -85,7 +85,7 @@ The following process read different Swift message types from the Disk, get the 
 
 ![Alt text](resources/Document_Viewer_Swift.png?raw=true "Swift2XML")
 
-Please not the last element in block 4:
+Please note the presence of the last element in block 4:
 
 ```
 :71A:SHA
