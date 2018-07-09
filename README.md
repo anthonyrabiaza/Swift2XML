@@ -5,7 +5,7 @@ The Framework is generic and support all Swift Message Types.
 
 ## Getting Started
 
-Please pull the sources from github and load in Eclipse (Java Project)
+Please download the libraries [swift2xml](jar/swift2xml-0.6.jar?raw=true), [gson](lib/gson-2.8.2.jar?raw=true) and [pw-swift-core](lib/pw-swift-core-SRU2017-7.9.7.jar?raw=true) from github.
 
 ### Prerequisites in Boomi
 
